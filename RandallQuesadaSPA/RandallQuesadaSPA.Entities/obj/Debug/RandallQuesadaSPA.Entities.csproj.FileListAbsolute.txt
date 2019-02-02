@@ -1,0 +1,7 @@
+F:\Development\GreenSlate\RandallQuesadaSPA\RandallQuesadaSPA.Entities\bin\Debug\RandallQuesadaSPA.Entities.dll
+F:\Development\GreenSlate\RandallQuesadaSPA\RandallQuesadaSPA.Entities\bin\Debug\RandallQuesadaSPA.Entities.pdb
+F:\Development\GreenSlate\RandallQuesadaSPA\RandallQuesadaSPA.Entities\obj\Debug\RandallQuesadaSPA.Entities.csprojResolveAssemblyReference.cache
+F:\Development\GreenSlate\RandallQuesadaSPA\RandallQuesadaSPA.Entities\obj\Debug\RandallQuesadaSPA.Entities.dll
+F:\Development\GreenSlate\RandallQuesadaSPA\RandallQuesadaSPA.Entities\obj\Debug\RandallQuesadaSPA.Entities.pdb
+F:\Development\GreenSlate\RandallQuesadaSPA\RandallQuesadaSPA.Entities\bin\Debug\RandallQuesadaSPA.Interfaces.dll
+F:\Development\GreenSlate\RandallQuesadaSPA\RandallQuesadaSPA.Entities\bin\Debug\RandallQuesadaSPA.Interfaces.pdb

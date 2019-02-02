@@ -1,0 +1,30 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>User and Projectes</title>
+    <link href="~/Content/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/css/HighLight.css" rel="stylesheet" />    
+</head>
+
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+
+<script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+
+<script>
+    function DisplayProjectList() {
+        $.get("DisplayUserProjectList").done(function (r)
+        {
+            $('#ProjectList').html(r)
+        });
+    }
+
+</script>
+<body>
+
+<div id="ProjectList">
+</div>
+</body>
+</html>

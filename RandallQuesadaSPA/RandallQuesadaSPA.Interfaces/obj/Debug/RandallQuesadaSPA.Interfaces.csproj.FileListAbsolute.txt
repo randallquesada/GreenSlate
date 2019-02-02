@@ -1,0 +1,5 @@
+F:\Development\GreenSlate\RandallQuesadaSPA\RandallQuesadaSPA.Interfaces\bin\Debug\RandallQuesadaSPA.Interfaces.dll
+F:\Development\GreenSlate\RandallQuesadaSPA\RandallQuesadaSPA.Interfaces\bin\Debug\RandallQuesadaSPA.Interfaces.pdb
+F:\Development\GreenSlate\RandallQuesadaSPA\RandallQuesadaSPA.Interfaces\obj\Debug\RandallQuesadaSPA.Interfaces.dll
+F:\Development\GreenSlate\RandallQuesadaSPA\RandallQuesadaSPA.Interfaces\obj\Debug\RandallQuesadaSPA.Interfaces.pdb
+F:\Development\GreenSlate\RandallQuesadaSPA\RandallQuesadaSPA.Interfaces\obj\Debug\RandallQuesadaSPA.Interfaces.csprojResolveAssemblyReference.cache

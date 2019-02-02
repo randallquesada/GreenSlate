@@ -1,0 +1,7 @@
+F:\Development\GreenSlate\RandallQuesadaSPA\DataBase\bin\Debug\DataBase.dacpac
+F:\Development\GreenSlate\RandallQuesadaSPA\DataBase\obj\Debug\Model.xml
+F:\Development\GreenSlate\RandallQuesadaSPA\DataBase\obj\Debug\refactor.xml
+F:\Development\GreenSlate\RandallQuesadaSPA\DataBase\obj\Debug\postdeploy.sql
+F:\Development\GreenSlate\RandallQuesadaSPA\DataBase\obj\Debug\predeploy.sql
+F:\Development\GreenSlate\RandallQuesadaSPA\DataBase\obj\Debug\DataBase.dll
+F:\Development\GreenSlate\RandallQuesadaSPA\DataBase\obj\Debug\DataBase.pdb

@@ -1,0 +1,5 @@
+F:\Development\GreenSlate\RandallQuesadaSPA\InterfaceDAL\bin\Debug\InterfaceDAL.dll
+F:\Development\GreenSlate\RandallQuesadaSPA\InterfaceDAL\bin\Debug\InterfaceDAL.pdb
+F:\Development\GreenSlate\RandallQuesadaSPA\InterfaceDAL\obj\Debug\InterfaceDAL.dll
+F:\Development\GreenSlate\RandallQuesadaSPA\InterfaceDAL\obj\Debug\InterfaceDAL.pdb
+F:\Development\GreenSlate\RandallQuesadaSPA\InterfaceDAL\obj\Debug\InterfaceDAL.csprojResolveAssemblyReference.cache

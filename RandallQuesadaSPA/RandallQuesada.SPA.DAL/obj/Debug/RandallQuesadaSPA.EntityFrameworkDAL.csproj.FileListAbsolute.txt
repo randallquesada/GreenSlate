@@ -1,0 +1,14 @@
+F:\Development\GreenSlate\RandallQuesadaSPA\RandallQuesada.SPA.DAL\obj\Debug\RandallQuesadaSPA.EntityFrameworkDAL.csprojResolveAssemblyReference.cache
+F:\Development\GreenSlate\RandallQuesadaSPA\RandallQuesada.SPA.DAL\bin\Debug\RandallQuesadaSPA.DAL.dll.config
+F:\Development\GreenSlate\RandallQuesadaSPA\RandallQuesada.SPA.DAL\bin\Debug\RandallQuesadaSPA.DAL.dll
+F:\Development\GreenSlate\RandallQuesadaSPA\RandallQuesada.SPA.DAL\bin\Debug\RandallQuesadaSPA.DAL.pdb
+F:\Development\GreenSlate\RandallQuesadaSPA\RandallQuesada.SPA.DAL\bin\Debug\EntityFramework.dll
+F:\Development\GreenSlate\RandallQuesadaSPA\RandallQuesada.SPA.DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Development\GreenSlate\RandallQuesadaSPA\RandallQuesada.SPA.DAL\bin\Debug\InterfaceDAL.dll
+F:\Development\GreenSlate\RandallQuesadaSPA\RandallQuesada.SPA.DAL\bin\Debug\RandallQuesadaSPA.Interfaces.dll
+F:\Development\GreenSlate\RandallQuesadaSPA\RandallQuesada.SPA.DAL\bin\Debug\InterfaceDAL.pdb
+F:\Development\GreenSlate\RandallQuesadaSPA\RandallQuesada.SPA.DAL\bin\Debug\RandallQuesadaSPA.Interfaces.pdb
+F:\Development\GreenSlate\RandallQuesadaSPA\RandallQuesada.SPA.DAL\bin\Debug\EntityFramework.xml
+F:\Development\GreenSlate\RandallQuesadaSPA\RandallQuesada.SPA.DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Development\GreenSlate\RandallQuesadaSPA\RandallQuesada.SPA.DAL\obj\Debug\RandallQuesadaSPA.DAL.dll
+F:\Development\GreenSlate\RandallQuesadaSPA\RandallQuesada.SPA.DAL\obj\Debug\RandallQuesadaSPA.DAL.pdb
